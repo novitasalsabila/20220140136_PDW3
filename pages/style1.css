@@ -11,6 +11,15 @@ body{
     background-image: url('image/makan.jpg');
 }
 
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+form {
+  margin-top: 100px;
+}
+
+
 img {
     display: block;
     margin-left: auto;
@@ -66,7 +75,7 @@ img {
   
   .header {
     overflow: hidden;
-    background-color: black;
+    background-color: rgb(41, 40, 38);
     padding: 20px 10px;
   }
   
@@ -111,4 +120,6 @@ img {
       float: none;
     }
   }
+  
+  
   
